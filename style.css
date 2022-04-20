@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle{
+    width: 400px;
+    height: 400px;
+    background-color: transparent;
+    border-radius: 52%;
+    border: 10px solid #ffff;
+    outline: 100px solid #000;
+    position: relative;
+}
